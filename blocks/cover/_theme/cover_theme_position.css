@@ -1,0 +1,11 @@
+.cover_position_moved {
+  width: 100%;
+  padding: 0 48px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1024px) {
+  .cover_position_moved {
+    padding: 0;
+  }
+}

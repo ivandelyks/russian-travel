@@ -1,0 +1,27 @@
+.lead_theme_position {
+  margin: 56px auto 96px auto;
+  width: 100%;
+  padding: 0 148px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1024px) {
+  .lead_theme_position {
+    margin-top: 48px;
+    margin-bottom: 92px;
+    padding: 0 48px;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead_theme_position {
+    margin-bottom: 88px;
+    padding: 0;
+  }
+}
+
+@media (max-width: 425px) {
+  .lead_theme_position {
+    margin-bottom: 64px;
+  }
+}

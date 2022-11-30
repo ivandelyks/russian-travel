@@ -1,0 +1,4 @@
+.header__lang_type_active {
+  border-bottom: solid 2px #fff;
+  cursor: pointer;
+}

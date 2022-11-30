@@ -1,0 +1,15 @@
+.nav__items {
+  display: flex;
+  column-gap: 18px;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+@media (max-width: 650px) {
+  .nav__items {
+    flex-direction: column;
+    row-gap: 32px;
+    align-items: flex-start;
+  }
+}

@@ -1,0 +1,27 @@
+.place_theme_position:not(.place_theme_position:last-child) {
+  margin-bottom: 80px;
+}
+
+@media (max-width: 900px) {
+  .place_theme_position:not(.place_theme_position:last-child) {
+    margin-bottom: 73px;
+  }
+}
+
+@media (max-width: 768px) {
+  .place_theme_position:not(.place_theme_position:last-child) {
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 650px) {
+  .place_theme_position:not(.place_theme_position:last-child) {
+    margin-bottom: 64px;
+  }
+}
+
+@media (max-width: 320px) {
+  .place_theme_position:not(.place_theme_position:last-child) {
+    margin-bottom: 50px;
+  }
+}
