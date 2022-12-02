@@ -10,4 +10,4 @@
 
 Планирую добавить анимации и JS (шутка, а может и нет)
 
-link on githab: 
+link on githab: https://ivandelyks.github.io/russian-travel/
