@@ -10,7 +10,7 @@
 
 @media (max-width: 768px) {
   .place_theme_position:not(.place_theme_position:last-child) {
-    margin-bottom: 88px;
+    margin-bottom: 73px;
   }
 }
 
